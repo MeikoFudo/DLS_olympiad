@@ -26,7 +26,5 @@
 3. **BERT**
    - Модель BERT (Bidirectional Encoder Representations from Transformers) была использована для извлечения эмбеддингов из текстов отзывов.
    - Классификация выполнена с помощью модели, основанной на BERT.
-=
 
-
-
+![image](https://github.com/user-attachments/assets/edb0325c-da23-4b3a-8a3f-29ce59a063a0)
